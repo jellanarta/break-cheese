@@ -14,7 +14,7 @@ export default function CardProduct() {
       </div>
       <div className="p-4">
         {/* nama products */}
-        <div className="text-xs uppercase font-medium line-clamp-2">
+        <div className="text-sm uppercase font-medium line-clamp-2">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim, amet.
         </div>
         {/* nama products */}
