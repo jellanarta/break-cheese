@@ -7,7 +7,7 @@ export default function SplideJumbotron() {
       aria-label="Products"
       options={{
         pagination: false,
-        arrows: false,
+        // arrows: false,
         type: "loop",
         autoplay: true,
         speed: 500,

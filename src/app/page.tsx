@@ -8,8 +8,8 @@ export default function Home() {
     <>
     <Menu/>
     <Jumbotron/>
-    <Services/>
     <Products/>
+    <Services/>
     </>
   );
 }
